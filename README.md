@@ -1,3 +1,3 @@
 ## Sejam bem-vindos!!! 
-## Me chamo Yruan Lima, estudante de ADS
+## Sou o Yruan Lima, estudante de ADS
 
