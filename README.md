@@ -8,3 +8,5 @@ Sobre mim:
 -   Contato: yruanlima@gmail.com
 -  - 😄 Pronouns: ele/dele
 -  - 😄 Pronomes: ele/dele
+
+![Estatísticas do GitHub de Yruan](https://github-readme-stats.vercel.app/api?username=yruanlima&show_icons=true&theme=tokyonight)
